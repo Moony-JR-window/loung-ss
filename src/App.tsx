@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import pic from "./pic/2024-09-11 13.56.05.jpg";
 
 const App = () => {
