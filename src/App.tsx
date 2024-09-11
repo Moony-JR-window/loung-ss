@@ -20,7 +20,7 @@ const App = () => {
   return (
     <div className="flex flex-col justify-center pl-10 pr-10 items-center w-full h-screen ">
       <div className="flex flex-col gap-5 w-full">
-        <div className="flex flex-col gap-5 top-20 sticky ">
+        <div className="flex flex-col gap-5 top-20 sticky pointer-events-none ">
           <h1 className= " text-xl text-red-400">
             ស្រលាញ់បងវិញមក​ Chhop Ngor tv bro Cute 😒😍
           </h1>
